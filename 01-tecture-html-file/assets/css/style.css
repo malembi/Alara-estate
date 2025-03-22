@@ -184,6 +184,8 @@ li {
   padding-right: 15px;
 }
 
+
+
 .list-unstyled {
   padding-left: 0;
 }
@@ -291,10 +293,10 @@ li {
   font-weight: 700;
   font-size: 17px;
   color: var(--tecture-white);
-  background-color: var(--tecture-base);
+  background-color: goldenrod;
   padding: 17px 40px 17px;
   border-radius: 0;
-  moz-transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
   -o-transition: all .4s ease-in-out;
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
