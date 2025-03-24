@@ -109,12 +109,12 @@
     border: 1px solid var(--tecture-bdr-color);
     border-radius: 50%;
     font-size: 20px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .awards-one__arrow a:hover {
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .awards-one__right {

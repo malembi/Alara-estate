@@ -69,8 +69,8 @@
 .projects-one__filter.style1 li:hover .filter-text,
 .projects-one__filter.style1 li.active .filter-text {
     color: var(--tecture-white);
-    border: 1px solid var(--tecture-base);
-    background-color: var(--tecture-base);
+    border: 1px solid rgb(163, 120, 10);
+    background-color: rgb(163, 120, 10);
 }
 
 .projects-one__bottom {
@@ -178,12 +178,12 @@
 }
 
 .projects-one__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .projects-one__sub-title {
     font-size: 18px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .projects-one__arrow {
@@ -211,7 +211,7 @@
     justify-content: center;
     height: 65px;
     width: 65px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     border-radius: 50%;
     font-size: 20px;
     color: var(--tecture-white);
@@ -219,7 +219,7 @@
 
 .projects-one__arrow a:hover {
     background-color: var(--tecture-black);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 /*--------------------------------------------------------------
@@ -334,7 +334,7 @@
 }
 
 .project-two__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .project-two__arrow {
@@ -349,7 +349,7 @@
     justify-content: center;
     height: 56px;
     width: 56px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     border-radius: 50%;
     font-size: 20px;
     color: var(--tecture-white);
@@ -373,7 +373,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -388,7 +388,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -416,7 +416,7 @@
 .project-two__carousel.owl-theme .owl-nav .owl-next:hover,
 .project-two__carousel.owl-theme .owl-nav .owl-prev:hover {
     background-color: var(--tecture-white);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .project-two__carousel.owl-carousel .owl-stage-outer {
@@ -512,7 +512,7 @@
 
 .projects-three__sub-title {
     font-size: 18px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     transform: translateY(-10px);
     transition: all 0.4s ease-in-out 0s;
 }
@@ -540,7 +540,7 @@
 }
 
 .projects-three__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .projects-three__arrow {
@@ -568,7 +568,7 @@
     justify-content: center;
     height: 65px;
     width: 65px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     border-radius: 50%;
     font-size: 20px;
     color: var(--tecture-white);
@@ -576,7 +576,7 @@
 
 .projects-three__arrow a:hover {
     background-color: var(--tecture-black);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 
@@ -610,7 +610,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -625,7 +625,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -653,7 +653,7 @@
 .projects-three__carousel.owl-theme .owl-nav .owl-next:hover,
 .projects-three__carousel.owl-theme .owl-nav .owl-prev:hover {
     background-color: var(--tecture-white);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 /*--------------------------------------------------------------

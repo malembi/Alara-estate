@@ -53,7 +53,7 @@
     position: absolute;
     top: 0;
     right: 217px;
-    border-top: 250px solid var(--tecture-base);
+    border-top: 250px solid rgb(163, 120, 10);
     border-right: 215px solid transparent;
     border-left: 314px solid transparent;
     opacity: 0;
@@ -71,7 +71,7 @@
     position: absolute;
     top: 0;
     right: -20px;
-    border-top: 250px solid var(--tecture-base);
+    border-top: 250px solid rgb(163, 120, 10);
     border-right: 195px solid transparent;
     border-left: 215px solid transparent;
     opacity: 0;
@@ -174,7 +174,7 @@
 }
 
 .main-slider__video-icon:hover {
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     color: var(--tecture-white);
 }
 
@@ -667,7 +667,7 @@
 
 .main-slider-three__price {
     font-size: 26px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-weight: 400;
     font-style: normal;
     line-height: 36px;
@@ -812,8 +812,8 @@
 .main-slider-three__nav .swiper-button-next:hover,
 .main-slider-three__nav .swiper-button-prev:hover {
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
-    border: 2px solid var(--tecture-base);
+    background-color: rgb(163, 120, 10);
+    border: 2px solid rgb(163, 120, 10);
 }
 
 .main-slider-three__nav .swiper-button-next {
@@ -860,7 +860,7 @@
 
 .main-slider-three__contact-list li .icon i {
     font-size: 15px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .main-slider-three__contact-list li .text {
@@ -880,7 +880,7 @@
 }
 
 .main-slider-three__contact-list li .text p a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .main-slider-three__social {
@@ -901,7 +901,7 @@
 }
 
 .main-slider-three__social a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 
@@ -972,7 +972,7 @@
 }
 
 .main-slider-four__content .title h2 span {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-style: italic;
 }
 

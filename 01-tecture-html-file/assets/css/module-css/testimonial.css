@@ -86,7 +86,7 @@
 }
 
 .testimonial-one__client-name a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .testimonial-one__client-sub-title {
@@ -125,7 +125,7 @@
 }
 
 .testimonial-one__review {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .testimonial-one__bottom {
@@ -233,7 +233,7 @@
     position: relative;
     display: inline-block;
     font-size: 14px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .testimonial-two__name {
@@ -254,7 +254,7 @@
 }
 
 .testimonial-two__name a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .testimonial-two__text {
@@ -333,9 +333,9 @@
 
 .testimonial-two__carousel.owl-theme .owl-nav .owl-next:hover,
 .testimonial-two__carousel.owl-theme .owl-nav .owl-prev:hover {
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     color: var(--tecture-white);
-    border: 2px solid var(--tecture-base);
+    border: 2px solid rgb(163, 120, 10);
 }
 
 .testimonial-two__carousel.owl-carousel .owl-stage-outer {
@@ -467,7 +467,7 @@
 .single-testimonial-three .content-box .rating-box li .icon {
     position: relative;
     display: inline-block;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-size: 18px;
     line-height: 15px;
 }
@@ -504,7 +504,7 @@
 .single-testimonial-three .content-box .bottom-box .quote-box {
     position: relative;
     display: block;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-size: 45px;
     line-height: 40px;
 }
@@ -530,7 +530,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -544,7 +544,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -571,7 +571,7 @@
 .testimonial-three__carousel.owl-theme .owl-nav .owl-next:hover,
 .testimonial-three__carousel.owl-theme .owl-nav .owl-prev:hover {
     background-color: var(--tecture-white);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .testimonial-three__carousel.owl-carousel .owl-item {

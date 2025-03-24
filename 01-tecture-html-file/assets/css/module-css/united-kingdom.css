@@ -28,7 +28,7 @@
     margin: 0 auto;
     border-radius: 50%;
     background-color: var(--tecture-black);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-size: 35px;
     z-index: 1;
 }
@@ -92,7 +92,7 @@
 }
 
 .single-contact-info-section__content .btn-box a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .single-contact-info-section__content .btn-box a span {

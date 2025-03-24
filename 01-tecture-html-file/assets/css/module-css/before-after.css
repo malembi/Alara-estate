@@ -20,7 +20,7 @@
 .before-and-after__img-box {
     position: relative;
     display: block;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .before-and-after__img-box .before-after {
@@ -41,7 +41,7 @@
     text-align: center;
     font-size: 16px;
     font-weight: 700;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     margin: 0px;
     padding: 0px;
     background: transparent;
@@ -71,7 +71,7 @@
     font-size: 16px;
     background: transparent;
     font-weight: 700;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     margin: 0px;
     padding: 0px;
     bottom: 0px;

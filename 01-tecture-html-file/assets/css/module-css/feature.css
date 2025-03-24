@@ -57,7 +57,7 @@
 }
 
 .feature-one__list li:hover .icon {
-    border: 1px dashed var(--tecture-base);
+    border: 1px dashed rgb(163, 120, 10);
 }
 
 .feature-one__list li .icon:after {
@@ -68,7 +68,7 @@
     right: 0;
     border-radius: 5px;
     height: 100%;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     -webkit-transition-delay: .1s;
     transition-delay: .1s;
     -webkit-transition-timing-function: ease-in-out;
@@ -97,7 +97,7 @@
     position: relative;
     display: inline-block;
     font-size: 35px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     transition: all 500ms linear;
     transition-delay: 0.1s;
 }
@@ -127,7 +127,7 @@
 }
 
 .feature-one__list li .text p a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 /*--------------------------------------------------------------
@@ -167,7 +167,7 @@
     position: relative;
     display: inline-block;
     font-size: 66px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     -webkit-transition: all 500ms linear;
     transition: all 500ms linear;
     -webkit-transition-delay: 0.1s;
@@ -193,7 +193,7 @@
 }
 
 .feature-two__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .feature-two__text {
@@ -225,7 +225,7 @@
     height: 14px;
     width: 14px;
     border-radius: 50%;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .feature-two__shape-3 {

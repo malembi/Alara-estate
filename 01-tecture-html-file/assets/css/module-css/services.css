@@ -51,7 +51,7 @@
 }
 
 .services-one__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .services-one__img {
@@ -117,7 +117,7 @@
 }
 
 .services-one__btn:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 /*--------------------------------------------------------------
@@ -252,7 +252,7 @@
 }
 
 .services-two__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .services-two__single-right {
@@ -280,7 +280,7 @@
     justify-content: center;
     height: 65px;
     width: 65px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     border-radius: 50%;
     color: var(--tecture-white);
     font-size: 22px;
@@ -288,7 +288,7 @@
 
 .services-two__arrow a:hover {
     background-color: var(--tecture-white);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 /* hover image */
@@ -375,14 +375,14 @@
 }
 
 .services-three__single:hover .services-three__icon {
-    border: 1px dashed var(--tecture-base);
+    border: 1px dashed rgb(163, 120, 10);
 }
 
 .services-three__icon span {
     position: relative;
     display: inline-block;
     font-size: 35px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     transition: all 500ms linear;
     transition-delay: 0.1s;
     transform: scale(1);
@@ -406,7 +406,7 @@
 }
 
 .services-three__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .services-three__img {
@@ -466,11 +466,11 @@
     border: 1px dashed var(--tecture-bdr-color);
     border-radius: 50%;
     font-size: 12px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .services-three__arrow a:hover {
-    border: 1px dashed var(--tecture-base);
+    border: 1px dashed rgb(163, 120, 10);
 }
 
 /*--------------------------------------------------------------
@@ -518,7 +518,7 @@
 }
 
 .services-four__single:hover .services-four__icon {
-    border: 1px solid var(--tecture-base);
+    border: 1px solid rgb(163, 120, 10);
 }
 
 .services-four__icon:after {
@@ -529,7 +529,7 @@
     right: 0;
     border-radius: 5px;
     height: 100%;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     -webkit-transition-delay: .1s;
     transition-delay: .1s;
     -webkit-transition-timing-function: ease-in-out;
@@ -587,7 +587,7 @@
 }
 
 .services-four__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .services-four__arrow {
@@ -610,7 +610,7 @@
 }
 
 .services-four__arrow a:hover {
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     color: var(--tecture-white);
 }
 
@@ -672,7 +672,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
     transition: transform 0.5s ease, -webkit-transform 0.5s ease;
@@ -696,7 +696,7 @@
 
 .service-details__services-list li a span {
     font-size: 22px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -752,7 +752,7 @@
 }
 
 .service-details__icon:hover {
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .service-details__icon span {
@@ -784,7 +784,7 @@
 }
 
 .service-details__number a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .service-details__download-box {
@@ -793,7 +793,7 @@
     align-items: center;
     justify-content: center;
     gap: 20px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     padding: 20px 50px 20px;
 }
 
@@ -902,7 +902,7 @@
     display: inline-block;
     width: 14px;
     height: 14px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .service-details__points-list li p {

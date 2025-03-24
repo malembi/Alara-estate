@@ -92,7 +92,7 @@
 
 .site-footer__social a:hover {
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .site-footer__social a:after {
@@ -102,7 +102,7 @@
     left: 0;
     right: 0;
     height: 100%;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     -webkit-transition-delay: .1s;
     transition-delay: .1s;
     -webkit-transition-timing-function: ease-in-out;
@@ -179,7 +179,7 @@
 }
 
 .footer-widget__link li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .footer-widget__link-2 {
@@ -304,7 +304,7 @@
 
 .site-footer__bottom-text a {
     font-weight: 500;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -354,7 +354,7 @@
 }
 
 .site-footer__bottom-menu li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 
@@ -440,7 +440,7 @@
 .site-footer__top-title-box h3 a {
     position: relative;
     display: inline-block;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
@@ -457,7 +457,7 @@
     right: 0;
     height: 1px;
     width: 100%;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .site-footer__social-two {
@@ -497,7 +497,7 @@
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     content: "";
     opacity: 0;
     transform: scale(0.5);
@@ -617,7 +617,7 @@
 }
 
 .footer-widget__column-two-about-list li .text p a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .footer-widget__column-two.ml30 {
@@ -652,7 +652,7 @@
 }
 
 .footer-widget__column-two-link li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     padding-left: 5px;
 }
 
@@ -692,7 +692,7 @@
     top: 50%;
     left: 18px;
     transform: translateY(-50%);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-size: 22px;
     z-index: 1;
 }
@@ -702,7 +702,7 @@
     display: block;
     overflow: hidden;
     border-radius: 0;
-    border: 1px solid var(--tecture-base);
+    border: 1px solid rgb(163, 120, 10);
     background-color: var(--tecture-black);
     width: 100%;
     height: 50px;
@@ -781,7 +781,7 @@
 }
 
 .footer-widget-links ul li a.color:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .footer-widget-newsupdate {
@@ -835,7 +835,7 @@
 }
 
 .footer-widget-newsupdate ul li .title-box h4 a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .subscribe-box-form form .btn-box {
@@ -871,7 +871,7 @@
 }
 
 .copyright-text p a {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
@@ -911,7 +911,7 @@
 }
 
 .footer-menu ul li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 

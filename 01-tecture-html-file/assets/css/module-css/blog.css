@@ -134,7 +134,7 @@
 }
 
 .blog-one__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-one__btn-box {
@@ -218,7 +218,7 @@
 .blog-two__date p {
     font-size: 18px;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     line-height: 18px;
     padding: 5px 0;
 }
@@ -227,7 +227,7 @@
     font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     background-color: var(--tecture-white);
     padding: 5px 0;
 }
@@ -252,7 +252,7 @@
 }
 
 .blog-two__title a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-two__btn-box {
@@ -275,7 +275,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -290,7 +290,7 @@
     line-height: 82px;
     border-radius: 0;
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     font-size: 22px;
     margin: 0;
     text-align: center;
@@ -318,7 +318,7 @@
 .blog-two__carousel.owl-theme .owl-nav .owl-next:hover,
 .blog-two__carousel.owl-theme .owl-nav .owl-prev:hover {
     background-color: var(--tecture-white);
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 
@@ -373,7 +373,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     padding: 3px 10px 3px;
     z-index: 5;
 }
@@ -417,11 +417,11 @@
 }
 
 .single-blog-three .content-box .meta-box li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .single-blog-three .content-box .meta-box li a i {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     margin-right: 5px;
 }
 
@@ -443,7 +443,7 @@
 }
 
 .single-blog-three .content-box .title-box h3 a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 
@@ -572,11 +572,11 @@
 }
 
 .blog-details__meta li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-details__meta li a span {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-details__share {
@@ -599,7 +599,7 @@
 
 .blog-details__share a:hover {
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .blog-details__title-1 {
@@ -655,8 +655,8 @@
 }
 
 .blog-details__tag-list a:hover {
-    border: 1px solid var(--tecture-base);
-    background-color: var(--tecture-base);
+    border: 1px solid rgb(163, 120, 10);
+    background-color: rgb(163, 120, 10);
 }
 
 .blog-details__client-info {
@@ -729,7 +729,7 @@
 }
 
 .blog-details__client-social-list a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-details__pagenation-box {
@@ -773,7 +773,7 @@
 }
 
 .blog-details__pagenation li:hover .icon>a {
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     color: var(--tecture-white);
 }
 
@@ -815,7 +815,7 @@
     bottom: -12px;
     width: 90px;
     height: 2px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .comment-one__single {
@@ -863,7 +863,7 @@
     display: block;
     margin-top: 5px;
     margin-bottom: 10px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .comment-one__btn-box {
@@ -874,7 +874,7 @@
 
 .comment-one__btn {
     font-size: 16px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-weight: 400;
     text-transform: capitalize;
 }
@@ -1019,7 +1019,7 @@
     left: 0;
     width: 70px;
     height: 2px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 .sidebar__search {
@@ -1062,8 +1062,8 @@
     align-items: center;
     justify-content: center;
     padding: 0;
-    background-color: var(--tecture-base);
-    border: 1px solid var(--tecture-base);
+    background-color: rgb(163, 120, 10);
+    border: 1px solid rgb(163, 120, 10);
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -1130,7 +1130,7 @@
 }
 
 .sidebar__post-content h3 a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .sidebar__post-date {
@@ -1140,7 +1140,7 @@
     gap: 10px;
     font-size: 14px;
     font-weight: 700;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .sidebar__all-category {
@@ -1177,7 +1177,7 @@
 }
 
 .sidebar__all-category-list li:hover a {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .have-any-query {
@@ -1242,7 +1242,7 @@
 
 .sidebar__tags-list a:hover {
     color: var(--tecture-white);
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
 }
 
 
@@ -1331,7 +1331,7 @@
 }
 
 .blog-two-single .content-box .meta-box .date-box p {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     font-size: 16px;
     text-transform: uppercase;
 }
@@ -1366,13 +1366,13 @@
 }
 
 .blog-two-single .content-box .meta-box .meta-info li a span {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     line-height: 0;
     margin-right: 10px;
 }
 
 .blog-two-single .content-box .meta-box .meta-info li a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-two-single .content-box .title-box {
@@ -1395,7 +1395,7 @@
 }
 
 .blog-two-single .content-box .title-box h3 a:hover {
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
 }
 
 .blog-two-single .content-box .text-box {
@@ -1457,9 +1457,9 @@
 
 .blog-page__pagination .pg-pagination li a:hover,
 .blog-page__pagination .pg-pagination li.active a {
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     color: var(--tecture-white);
-    border-color: var(--tecture-base);
+    border-color: rgb(163, 120, 10);
 }
 
 

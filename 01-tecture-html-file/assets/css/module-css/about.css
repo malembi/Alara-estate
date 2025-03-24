@@ -201,7 +201,7 @@
     width: 0px;
     height: 3px;
     border-radius: 0px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     -webkit-transition: all 1500ms ease;
     -ms-transition: all 1500ms ease;
     -o-transition: all 1500ms ease;
@@ -295,7 +295,7 @@
 .about-two__history-year {
     font-size: 36px;
     font-weight: 700;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     line-height: 36px;
     margin-bottom: 11px;
 }
@@ -429,7 +429,7 @@
     position: relative;
     display: inline-block;
     font-size: 40px;
-    color: var(--tecture-base);
+    color: rgb(163, 120, 10);
     transition: all 500ms linear;
     transition-delay: 0.1s;
     transform: scale(1);
@@ -474,7 +474,7 @@
     background-color: var(--tecture-white);
     max-width: 320px;
     width: 100%;
-    border: 5px solid var(--tecture-base);
+    border: 5px solid rgb(163, 120, 10);
     padding: 32px 35px 34px;
     z-index: 2;
 }
@@ -520,7 +520,7 @@
     top: 70px;
     width: 90px;
     height: 90px;
-    background-color: var(--tecture-base);
+    background-color: rgb(163, 120, 10);
     border-radius: 50%;
     z-index: -1;
 }
