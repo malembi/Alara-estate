@@ -306,6 +306,88 @@ li {
   gap: 5px;
   z-index: 1;
 }
+/* Page Header Section */
+.page-header {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 100px 0; /* Adjust for desired spacing */
+  text-align: center;
+  color: white;
+}
+
+/* Background Overlay for Better Readability */
+.page-header__bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: brightness(60%); /* Darkens the image slightly */
+}
+
+/* Container Styling */
+.page-header__inner {
+  position: relative;
+  z-index: 2; /* Ensures content is above the background */
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Title Box Styling */
+.page-header__title-box p {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.page-header__title-box h3 {
+  font-size: 42px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+/* Breadcrumb Navigation */
+.thm-breadcrumb__box {
+  margin-top: 10px;
+}
+
+.thm-breadcrumb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.thm-breadcrumb li {
+  display: inline-block;
+  color: white;
+}
+
+.thm-breadcrumb a {
+  color: #f0a500; /* Highlight color */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.thm-breadcrumb a:hover {
+  color: #ffffff;
+}
+
+.thm-breadcrumb span {
+  color: white;
+  font-weight: bold;
+}
+
 
 .thm-btn span {
   font-size: 23px;
