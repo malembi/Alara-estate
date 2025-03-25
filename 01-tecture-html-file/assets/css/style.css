@@ -435,7 +435,7 @@ li {
 
 .preloader {
   position: fixed;
-  background-color: rgb(4, 43, 82);
+  background-color: black;
   background-position: center center;
   background-repeat: no-repeat;
   top: 0;
@@ -1453,6 +1453,9 @@ li {
   transition: transform 500ms ease 500ms, visibility 500ms ease 500ms;
   transition: transform 500ms ease 500ms, visibility 500ms ease 500ms, -webkit-transform 500ms ease 500ms;
   visibility: hidden;
+}
+.LoGo {
+display: none;
 }
 
 .mobile-nav__wrapper .container {
